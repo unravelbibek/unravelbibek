@@ -22,7 +22,7 @@
 Hi, I'm [Subedibibek!](https://www.instagram.com/subedibibekisaboringperson), a Passionate | learner | tech-geek | Student |
  🙌 from Kathmandu, Nepal.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/24/e0/3b/24e03bc76430e8a5123f1a51e5d53e78.gif" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
