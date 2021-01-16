@@ -31,7 +31,8 @@ Hi, I'm [Subedibibek!](https://www.instagram.com/subedibibekisaboringperson), a 
 
 - 👨🏽‍💻 I’m currently working on some of my private projects :wink:;
 - 👨🏽‍💻 I’m currently Reading A thousands splendid suns :books:;
-- 🌱 I’m currently learning Full-Stack software engineering in Django; 
+- 🌱 I’m currently learning 
+      Full-Stack software engineering in Python & Django; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@subedibibek00](https://twitter.com/subedibibek00);
 - 📝[Resume](https://drive.google.com/file/d/1-hRRJtz3_V4ZqYKorLHmHXRmaXJ0VilW/view)
