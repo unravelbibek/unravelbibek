@@ -56,4 +56,7 @@ Hi, I'm [Subedibibek!](https://www.instagram.com/subedibibekisaboringperson), a 
 📈 My GitHub Status
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=imsubedibibek&theme=highcontrast&show_icons=true" />
+  
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
