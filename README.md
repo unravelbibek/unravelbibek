@@ -22,7 +22,7 @@
 Hi, I'm [Subedibibek!](https://www.instagram.com/subedibibekisaboringperson), a Passionate | learner | tech-geek | Student |
  🙌 from Kathmandu, Nepal.
 
-  <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/68398/screenshots/3684337/rainbow800-2.gif" width="500" height="320" />
+  <img align="right" alt="img" src="https://drive.google.com/file/d/1whF1rgHhP-n5l-iesHUREprQADuB66hh/view" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
@@ -30,7 +30,7 @@ Hi, I'm [Subedibibek!](https://www.instagram.com/subedibibekisaboringperson), a 
 - 👨🏽‍💻 I’m currently Reading A thousands splendid suns :books:;
 - 🌱 I’m currently learning Full-Stack in Django; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@subedibibek](https://twitter.com/subedibibek00);
+- 📫 How to reach me: [@subedibibek00](https://twitter.com/subedibibek00);
 - 📝[Resume](https://drive.google.com/file/d/1-hRRJtz3_V4ZqYKorLHmHXRmaXJ0VilW/view)
 
 **Languages and Tools:**  
