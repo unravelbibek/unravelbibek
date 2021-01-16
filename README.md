@@ -25,7 +25,7 @@
 Hi, I'm [Subedibibek!](https://www.instagram.com/subedibibekisaboringperson), a Passionate | learner | tech-geek | Student |
  🙌 from Kathmandu, Nepal.
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/77529535/104816324-7fca9200-5842-11eb-9c85-0176260fd2f9.gif?raw=true" width="500" height="340" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif?raw=true" width="500" height="340" />
   
 **Talking about Personal Stuffs:**
 
@@ -48,4 +48,9 @@ Hi, I'm [Subedibibek!](https://www.instagram.com/subedibibekisaboringperson), a 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 
+
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=imsubedibibek_icons=true&theme=gotham" alt="imsubedibibek" />
 
