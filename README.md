@@ -52,5 +52,5 @@ Hi, I'm [Subedibibek!](https://www.instagram.com/subedibibekisaboringperson), a 
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=imsubedibibek_icons=true&theme=gotham" alt="imsubedibibek" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=imsubedibibek" />
 
