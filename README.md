@@ -2,6 +2,9 @@
 <a href="https://discord.gg/nUM4vvna">
   <img align="left" alt="Subedibibek's discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
+<a href="https://www.facebook.com/groups/techforimpact">
+  <img align="left" alt="Subedibibek's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
 <a href="https://twitter.com/subedibibek00">
   <img align="left" alt="Subedi Bibek | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -22,7 +25,7 @@
 Hi, I'm [Subedibibek!](https://www.instagram.com/subedibibekisaboringperson), a Passionate | learner | tech-geek | Student |
  🙌 from Kathmandu, Nepal.
 
-  <img align="right" alt="img" src="https://drive.google.com/file/d/1whF1rgHhP-n5l-iesHUREprQADuB66hh/view" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
