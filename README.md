@@ -52,7 +52,7 @@ ___
 
 📈 My GitHub Status
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=whoissubedibibek" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=whoissubedibibek&theme=highcontrast&show_icons=true" />
 
 
   
