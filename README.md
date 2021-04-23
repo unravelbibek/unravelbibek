@@ -33,7 +33,7 @@ Hi, I'm [Subedibibek!](https://www.instagram.com/subedibibekisaboringperson), a 
 - 👨🏽‍💻 I’m currently Reading A thousands splendid suns :books:;
 - 🌱 I’m currently learning <br> Full-Stack software engineering in Python & Django; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@subedibibek00](https://twitter.com/subedibibek00);
+- 📫 How to reach me: [@whoissubedibibek](https://twitter.com/whoisubedibibek);
 - 📝[Resume](https://drive.google.com/file/d/1-hRRJtz3_V4ZqYKorLHmHXRmaXJ0VilW/view)
 - [Join My tech Community from here ❤](https://www.facebook.com/groups/techforimpact)
 
@@ -52,7 +52,7 @@ ___
 
 📈 My GitHub Status
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=whoissubedibibek=highcontrast&show_icons=true" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=whoissubedibibek" />
 
 
   
