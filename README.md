@@ -22,7 +22,7 @@
 
 <br />
 
-Hi, I'm [Subedibibek!](https://www.instagram.com/subedibibekisaboringperson), a Passionate | learner | tech-geek | Student |
+Hi, I'm [Subedibibek!](https://www.instagram.com/whoissubedibibek), a Passionate | learner | tech-geek | Student |
  🙌 from Kathmandu, Nepal.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif?raw=true" width="500" height="340" />
