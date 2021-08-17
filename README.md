@@ -8,17 +8,17 @@
 <a href="https://twitter.com/whoisubedibibek">
   <img align="left" alt="Subedi Bibek | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/subedibibek/">
+<a href="https://www.linkedin.com/in/whoissubedibibek/">
   <img align="left" alt="Bibek's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/8g152p6xg83chwvyn5pci8h2k?si=J8-t2QXGTgycKNjmCMMlPA">
   <img align="left" alt="Bibek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://www.reddit.com/user/imsubedibibek/">
+<a href="https://www.reddit.com/user/whoissubedibibek/">
   <img align="left" alt="Bibek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=imsubedibibek)
+![](https://visitor-badge.glitch.me/badge?page_id=whoissubedibibek)
 
 <br />
 
