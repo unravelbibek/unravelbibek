@@ -5,7 +5,7 @@
 <a href="https://www.facebook.com/groups/techforimpact">
   <img align="left" alt="Subedibibek's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<a href="https://twitter.com/subedibibek00">
+<a href="https://twitter.com/whoisubedibibek">
   <img align="left" alt="Subedi Bibek | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/subedibibek/">
