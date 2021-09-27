@@ -31,7 +31,7 @@ Hi, I'm [Subedibibek!](https://www.instagram.com/whoissubedibibek), a Passionate
 
 - 👨🏽‍💻 I’m currently working on some of my private projects :wink:;
 - 👨🏽‍💻 I’m currently Reading how to win friends and influence people by dale carnegie :books:;
-- 🌱 I’m currently learning <br> Full-Stack software engineering in Python & Django; 
+- 🌱 I’m currently learning <br> Full-Stack software engineering; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@whoissubedibibek](https://twitter.com/whoisubedibibek);
 - 📝[Resume](https://drive.google.com/file/d/1-hRRJtz3_V4ZqYKorLHmHXRmaXJ0VilW/view)
