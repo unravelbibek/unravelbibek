@@ -30,7 +30,7 @@ Hi, I'm [Subedibibek!](https://www.instagram.com/whoissubedibibek), a Passionate
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on some of my private projects :wink:;
-- :books: I’m currently Reading Automatic Habits by James Clear :books:;
+- :books: I’m currently Reading Atomic Habits by James Clear :books:;
 - 🌱 I’m currently learning <br> Full-Stack software engineering; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@whoissubedibibek](mailto:Subedibibek@itsnp.org);
