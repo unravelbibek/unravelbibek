@@ -12,10 +12,10 @@
   <img align="left" alt="Bibek's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/8g152p6xg83chwvyn5pci8h2k?si=J8-t2QXGTgycKNjmCMMlPA">
-  <img align="left" alt="Bibek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Bibek's Spotify" width="22px" src="https://user-images.githubusercontent.com/77529535/158766532-e0d801a0-eb88-4a36-a949-9e6649e57e5c.svg" />
 </a>
 <a href="https://www.reddit.com/user/whoissubedibibek/">
-  <img align="left" alt="Bibek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+  <img align="left" alt="Bibek's Reddit" width="22px" src="https://user-images.githubusercontent.com/77529535/158766523-e75bfedc-df05-4280-a51f-36ccf05d39b9.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=whoissubedibibek)
