@@ -3,7 +3,7 @@
   <img align="left" alt="Subedibibek's discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.facebook.com/groups/techforimpact">
-  <img align="left" alt="Subedibibek's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img align="left" alt="Subedibibek's Facebook" width="22px" src="https://user-images.githubusercontent.com/77529535/158766681-5a85889f-6a79-469a-b49c-d338aec1d85d.svg" />
 </a>
 <a href="https://twitter.com/whoisubedibibek">
   <img align="left" alt="Subedi Bibek | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
